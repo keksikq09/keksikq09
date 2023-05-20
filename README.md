@@ -30,9 +30,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/kD9rA2-LNksAAAAC/anime-smile-tsubaki.gif"  />
-</div>
-
-###
