@@ -7,7 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/kD9rA2-LNksAAAAC/anime-smile-tsubaki.gif"  />
+<img align="right" height="170" src="https://media.tenor.com/kD9rA2-LNksAAAAC/anime-smile-tsubaki.gif"  />
 
 ###
 
