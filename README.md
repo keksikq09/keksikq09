@@ -1,4 +1,3 @@
-<h2 align="center">Yo 👋</h2>
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A passionate .net developer from Ukraine</h3>
 
