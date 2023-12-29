@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **c# , telegram bots**
 
-- 📫 How to reach me **nikitatabot187@gmail.com**
+- 📫 How to reach me **nikitatabor187@gmail.com**
 
 - ⚡ Fun fact **I think c# better than java**
 
