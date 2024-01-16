@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keksikq09&label=Profile%20views&color=0e75b6&style=flat" alt="keksikq09" /> </p>
 
-- 🔭 I’m currently working on **my pet project asp.net todo app**
+- 🔭 I’m currently working on **my pet project e-commerce website**
 
 - 🌱 I’m currently learning **ASP.NET MVC**
 
