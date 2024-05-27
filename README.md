@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my pet project admin panel for telegram-bot**
 
-- 🌱 I’m currently learning **ASP.NET MVC**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **c# , telegram bots , unity**
 
