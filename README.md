@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **C#, Unity, .NET**
 
-- 📫 How to reach me **nikitatabor187@gmail.com**
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
